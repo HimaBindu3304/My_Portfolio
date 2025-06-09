@@ -129,3 +129,11 @@ footer {
   font-size: 14px;
   color: black;
 }
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  border: 2px solid #9370db;
+}
